@@ -1,0 +1,8 @@
+$ cd /
+$ ls
+dir dpllhlcv
+284723 hznrlfhh.tnz
+$ cd dpllhlcv
+$ ls
+11223 bplz.rdp
+dir gpmlznd
